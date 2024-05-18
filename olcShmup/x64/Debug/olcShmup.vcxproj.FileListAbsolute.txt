@@ -1,0 +1,6 @@
+C:\Users\jgalv\source\repos\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.MdMergeInputs.cache
+C:\Users\jgalv\source\repos\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.cppwinrt_plat.cache
+C:\Users\jgalv\source\repos\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.cppwinrt_comp.cache
+C:\Users\jgalv\source\repos\Johnnyg63\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.MdMergeInputs.cache
+C:\Users\jgalv\source\repos\Johnnyg63\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.cppwinrt_plat.cache
+C:\Users\jgalv\source\repos\Johnnyg63\olcShmup\olcShmup\x64\Debug\olcShmup.vcxproj.cppwinrt_comp.cache
